@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mythventor
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Computer Science @ Data Science
 - 🌱 I’m currently learning Computer System
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love chess
